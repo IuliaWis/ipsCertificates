@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ipsCertificates/static/css/main.75393126.css",
+    "main.js": "/ipsCertificates/static/js/main.80357faf.js",
+    "static/js/787.5ed481dd.chunk.js": "/ipsCertificates/static/js/787.5ed481dd.chunk.js",
+    "static/media/ips_logo.png": "/ipsCertificates/static/media/ips_logo.0dce3de458a8f545d572.png",
+    "index.html": "/ipsCertificates/index.html",
+    "main.75393126.css.map": "/ipsCertificates/static/css/main.75393126.css.map",
+    "main.80357faf.js.map": "/ipsCertificates/static/js/main.80357faf.js.map",
+    "787.5ed481dd.chunk.js.map": "/ipsCertificates/static/js/787.5ed481dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75393126.css",
+    "static/js/main.80357faf.js"
+  ]
+}
